@@ -1,0 +1,26 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wvcl-wrap .label_size_w {
+    display: inline-block;
+    min-width: 8em;
+    vertical-align: baseline;
+}
+
+.wvcl-wrap  .shortcode {
+    font-size: 1rem;
+    background: #2271b1;
+    padding: 1rem;
+    color: #fff;
+    font-family: monospace;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wvcl-wrap  .description * {
+    font-size: 13px;
+}

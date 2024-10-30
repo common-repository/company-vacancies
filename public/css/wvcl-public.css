@@ -1,0 +1,59 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.vacancy-name a {
+    font-size: 18px;
+    color: #3c9df2;
+}
+
+.vacancy-item {
+    border-bottom: 1px solid;
+    padding: 24px 0;
+}
+
+.vacancy-snippet-requirement,
+.vacancy-schedule-name,
+.vacancy-area-name,
+.vacancy-snippet-responsibility,
+.vacancy-published_at {
+    font-size: 14px;
+    line-height: 1.43;
+}
+
+.vacancy-salary {
+    font-size: 18px;
+}
+
+.vacancy-respond a {
+    font-size: 14px;
+    padding: 8px 12px;
+    font-family: inherit;
+    line-height: 30px;
+    background: #1785e5;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.vacancy-respond a:hover,
+.vacancy-respond a:focus,
+.vacancy-respond a:active {
+    color: #fff;
+}
+
+.vacancy-respond {
+    margin-top: 12px;
+}
+
+.vacancy-published_at {
+    margin-top: 12px;
+}
+
+.vacancy-schedule-name {
+    margin-bottom: 12px;
+}
+
+.vacancy-snippet-requirement {
+    margin-bottom: 8px;
+}
